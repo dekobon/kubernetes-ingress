@@ -27,7 +27,7 @@ FEATURES FOR POLICY RESOURCE:
 
 FEATURES FOR NGINX APP PROTECT:
 * [1147](https://github.com/nginxinc/kubernetes-ingress/pull/1147) Add option to specify other log destinations in AppProtect
-* [1131](https://github.com/nginxinc/kubernetes-ingress/pull/1131) Update packages and CRDs to AppProtect 2.0
+* [1131](https://github.com/nginxinc/kubernetes-ingress/pull/1131) Update packages and CRDs to AppProtect 2.0. This update includes features such as: [JSON Schema Validation](https://docs.nginx.com/nginx-app-protect/configuration#applying-a-json-schema), [User-Defined URLs](https://docs.nginx.com/nginx-app-protect/configuration/#user-defined-urls) and [User-Defined Parameters](https://docs.nginx.com/nginx-app-protect/configuration/#user-defined-parameters). See the [release notes](https://docs.nginx.com/nginx-app-protect/releases/#release-2-0) for a complete feature list.
 * [1100](https://github.com/nginxinc/kubernetes-ingress/pull/1100) Add external references to AppProtect
 * [1085](https://github.com/nginxinc/kubernetes-ingress/pull/1085) Add installation of threat campaigns package
 
