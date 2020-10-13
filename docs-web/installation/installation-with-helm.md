@@ -22,6 +22,7 @@ This step is required if you're installing the chart using its sources. Addition
 2. Change your working directory to /deployments/helm-chart:
     ```console
     $ cd kubernetes-ingress/deployments/helm-chart
+    $ git checkout v1.9.0
     ```
 
 ## Adding the Helm Repository

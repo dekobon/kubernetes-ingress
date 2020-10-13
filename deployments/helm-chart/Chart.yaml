@@ -1,6 +1,6 @@
 name: nginx-ingress
-version: edge
-appVersion: edge
+version: 0.6.2
+appVersion: 1.9.0
 apiVersion: v1
 kubeVersion: ">= 1.14.0"
 description: NGINX Ingress Controller
