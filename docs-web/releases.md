@@ -2,7 +2,7 @@
 
 ## NGINX Ingress Controller 1.9.0
 
-15 October 2020
+20 October 2020
 
 OVERVIEW:
 
